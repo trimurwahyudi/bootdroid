@@ -1,0 +1,1 @@
+![http://crazeddy.files.wordpress.com/2007/04/smileyface.jpg](http://crazeddy.files.wordpress.com/2007/04/smileyface.jpg)

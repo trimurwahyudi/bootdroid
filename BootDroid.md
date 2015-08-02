@@ -1,0 +1,3 @@
+# Introduction #
+
+BootDroid is a project which enables android phones to dual-boot both Android OS & iOS 5. Please note that this project is still under development and is currently not in an official stable state. It is suggested that you do not install BootDroid? until an official version has been released. Until then, the download will be available for the unstable version of the project for open source & code improvement purposes of beta testers & other developers.
